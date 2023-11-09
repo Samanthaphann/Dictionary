@@ -1,0 +1,37 @@
+body {
+    line-height: 1rem;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 7rem;
+  }
+  
+  input {
+    width: 45rem;
+    height: 3rem;
+    background-color: rgb(226, 226, 226);
+    font-size: 2rem;
+  }
+  
+  button {
+    height: 2rem;
+    width: 2rem;
+    background-color: rgb(226, 226, 226);
+  }
+  
+  .container {
+    text-align: center;
+    margin: 0 0 1rem 0;
+  }
+  
+  .container2 {
+    background-color: rgb(226, 226, 226);
+    width: 50rem;
+    line-height: 2rem;
+    border: 0.1rem solid gray;
+    padding: 0.5rem;
+    height: 18rem;
+    margin: 0 auto; /* Centering the container2 */
+  }
+  
